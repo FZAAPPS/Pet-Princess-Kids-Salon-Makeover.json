@@ -1,0 +1,14 @@
+{
+  "AdsController": {
+    "adNetwork": "admob",
+    "admobBanner": "ca-app-pub-7682816481695169/7096452851",
+    "admobInterstitial": "ca-app-pub-7682816481695169/2965636158",
+    "applovinBanner": "74e8a4adf41ea95c",
+    "applovinInterstitial": "a1d3275183f327c3",
+    "unityGameId": "5148947",
+    "testMode": true,
+    "unityBanner": "Pet_Princess_Kids_Salon_Makeover",
+    "unityInterstitial": "Pet_Princess_Kids_Salon_Makeover_inter",
+    "reviewActive": true
+  }
+}
